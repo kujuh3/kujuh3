@@ -1,4 +1,4 @@
-### Hi there 👋 I'm a computer science student at South-Eastern Finland University of Applied Sciences.
+## Hi there 👋 I'm a computer science student at South-Eastern Finland University of Applied Sciences.
 
 
 
