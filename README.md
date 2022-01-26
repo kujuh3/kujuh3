@@ -6,4 +6,4 @@ Currently learning: C# and software design
 
 Languages: JavaScript, Python, SQL, PHP, CSS
 
-Misc: Node &E xpress, React & React Native, MongoDB, Postgre, EJS
+Misc: Node, React & React Native, MongoDB, Postgre, EJS
