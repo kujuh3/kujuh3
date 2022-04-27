@@ -2,7 +2,7 @@
 
 
 
-<b>Currently learning:</b> C# and software design
+<b>Currently learning:</b> Django, React, Python
 
 <b>Languages:</b> JavaScript, Python, SQL, PHP, CSS
 
